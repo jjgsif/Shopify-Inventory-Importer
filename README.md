@@ -4,9 +4,9 @@
 <br/>
 <body>
 	
-Made for my sister's blossoming business, I created a tool to allow her to import titles, audiobooks, and merchandise into her store given a csv!
+Working for a blossoming business, I created a tool to allow them to import titles, audiobooks, and merchandise into their store given a csv!
 
 
-You can check her out at <a href="https://mossrosebooks.com">here</a> for all your book needs!
+You can check them out at <a href="https://mossrosebooks.com">here</a> for all your book needs!
 </body>
 
